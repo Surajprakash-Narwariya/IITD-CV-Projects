@@ -52,7 +52,7 @@
 
 ```bash
 # 1) Clone
-git clone https://github.com/<your-user>/<repo>.git
+git clone
 cd <repo>
 
 # 2) Configure (edit Makefile)
